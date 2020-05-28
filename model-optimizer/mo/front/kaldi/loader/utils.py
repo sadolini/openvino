@@ -38,6 +38,7 @@ supported_components = [
     'copy',
     'elementwiseproductcomponent',
     'fixedaffinecomponent',
+    'fixedscalecomponent',
     'linearcomponent',
     'logsoftmaxcomponent',
     'lstmnonlinearitycomponent',
